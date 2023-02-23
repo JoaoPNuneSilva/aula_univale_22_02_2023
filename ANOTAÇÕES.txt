@@ -1,0 +1,7 @@
+ENVIANDO REPOSITÓRIOS PARA O Github
+
+Para adicionar um arquivo utilize o comando git add . (adiciona todos os seus arquivos de uma vez só)
+Utilize o comando git commit -m adicionar a versão e mensagem do seu arquivo.
+Utilize o comando git branch -m main para adicionar uma ramificação main em seu projeto. (vários programadores trabalhando no projeto paralelamente)
+Adicione o comando de oreigem, git remode add origin. (personalizado com o seu repositório)
+git push -u origin main se usa para enviar o arquivo para o main do seu repositório.
